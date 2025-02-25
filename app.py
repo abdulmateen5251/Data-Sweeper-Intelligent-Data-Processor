@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from io import StringIO, BytesIO
+from io import StringIO BytesIO
 import seaborn as sns
 import matplotlib.pyplot as plt
 
