@@ -1,8 +1,8 @@
+import seaborn as sns
 import streamlit as st
 import pandas as pd
 import os
-from io import StringIO BytesIO
-import seaborn as sns
+from io import StringIO, BytesIO
 import matplotlib.pyplot as plt
 
 # Configure Streamlit app
